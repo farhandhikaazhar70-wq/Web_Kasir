@@ -1,0 +1,16 @@
+
+/* kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi MIT + wajib atribusi (lihat LICENSE). */
+
+:root {
+  --tema-utama: #F5B82E;
+  --tema-aksen: #E87918;
+  --tema-radius: 14px;
+  --tema-font: "DM Sans", system-ui, sans-serif;
+
+  --tema-latar: #F5B82E;
+  --tema-panel: #171717;
+  --tema-nav: #111111;
+  --tema-teks: #F5F1E8;
+  --tema-nav-teks: #F5F1E8;
+  --tema-utama-teks: #171717;
+}
